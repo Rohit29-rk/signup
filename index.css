@@ -8,7 +8,7 @@ input{
 }
 .main{
     
-    background-color: #dbc1ac; /* For browsers that do not support gradients */
+    background-color: #dbc1ac;
     background-image: linear-gradient(to bottom right, #dbc1ac , rgb(213, 245, 72));
     background-repeat: repeat;
     background-size: 100%;
